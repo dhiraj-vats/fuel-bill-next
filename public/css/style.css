@@ -1,0 +1,14 @@
+body {
+  background-color: #fffaf0;
+}
+button {
+  padding: 8px 12px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #ffcc00;
+  border: none;
+  border-radius: 4px;
+}
+table {
+  background-color: #fff8dc;
+}
